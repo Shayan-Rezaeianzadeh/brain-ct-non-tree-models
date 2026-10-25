@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn>=1.2
+imbalanced-learn
+openpyxl
+pillow
